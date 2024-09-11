@@ -1,0 +1,7 @@
+/*
+command to initialise npm*
+npm init -y
+
+lets install code linter that checks code for errors
+npm i -D prettier@2.7.1
+*/
